@@ -1,3 +1,4 @@
 sudo apt install python3-mysqldb
 sudo apt install mysql-client libmysqlclient-dev
 
+/usr/local/bin/docker context create ecs test
